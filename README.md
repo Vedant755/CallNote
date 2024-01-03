@@ -1,3 +1,3 @@
-Important things to note down after a call is main purpose of the application. Still in process....
-Using Room Database for local storage: https://developer.android.com/training/data-storage/room
-Using Jetpack Compose as UI toolkit: https://www.jetpackcompose.net
+- Important things to note down after a call is main purpose of the application. Still in process....
+- Using Room Database for local storage: https://developer.android.com/training/data-storage/room
+- Using Jetpack Compose as UI toolkit: https://www.jetpackcompose.net
